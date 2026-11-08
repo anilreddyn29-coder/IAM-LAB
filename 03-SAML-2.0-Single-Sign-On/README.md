@@ -42,15 +42,19 @@ The purpose of this lab is to understand the SAML 2.0 authentication flow, the c
 
 The Authgear SAML testing tool displays user attributes returned during the authentication process.
 
-![SAML User Attributes](screenshots/01-saml-user-attributes.png)
+![SAML User Attributes](./Screenshot%202026-08-08%20191007%281%29.png)
 
 ### 2. SAML Authentication Success
 
-![JWT Validation](screenshots/02-jwt-validation.png)
+This screenshot demonstrates JWT token validation and decoded claims.
+
+![JWT Validation](./Screenshot%202026-08-09%20124947%281%29.png)
 
 ### 3. SAML Response Validation
 
-![Authorization Success](screenshots/03-authorization-success.png)
+This screenshot demonstrates a successful OAuth authorization flow.
+
+![OAuth Authorization Success](./Screenshot%202026-08-09%20172309%281%29.png)
 
 ## Learning Outcomes
 
