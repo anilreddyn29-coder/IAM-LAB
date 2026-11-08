@@ -47,8 +47,6 @@ Successfully completed the OAuth 2.0 authorization flow.
 
 Decoded the ID token and verified the returned user claims.
 
-![Authorization Success](Screenshot%202026-08-16%20162403.png)
-
 ![JWT Decoded Payload](Screenshot%202026-08-16%20162137.png)
 
 
