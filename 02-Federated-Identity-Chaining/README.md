@@ -30,7 +30,7 @@ This hands-on lab demonstrates Federated Identity Authentication using Auth0 and
 
 ## Lab Screenshots
 
-02-Federated-Identity-Chaining/Screenshot 2026-11-08 180702.png
+![LinkedIn Authentication](./linkedin-authentication-clean.png)
 
 
 ![Authorization Success](./Screenshot%202026-08-16%20162225.png)
