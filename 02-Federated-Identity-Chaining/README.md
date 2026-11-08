@@ -34,7 +34,7 @@ This hands-on lab demonstrates Federated Identity Authentication using Auth0 and
 
 Successfully configured LinkedIn as an external Identity Provider using Auth0.
 
-![LinkedIn Authentication](Screenshot%202026-08-16%20162225.png)
+![Authorization Success](Screenshot%202026-08-16%20162403.png)
 
 ### 2. Authorization Success
 
