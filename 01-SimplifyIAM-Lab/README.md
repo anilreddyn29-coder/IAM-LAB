@@ -51,19 +51,15 @@ The lab covers employee onboarding, account provisioning, employee termination a
 
 ### 1. Employee Termination and Deprovisioning
 
-The employee account was automatically disabled
-and moved to the inactive organizational unit.
+The employee account was automatically disabled and moved to the inactive organizational unit.
 
-01-SimplifyIAM-Lab/Screenshot 2026-08-23 180636.png
-
-
+[![Employee Termination](Screenshot%202026-08-23%20180636.png)](Screenshot%202026-08-23%20180636.png)
 
 ### 2. Employee Account Provisioning
 
-The employee account was available in the
-OpenLDAP people organizational unit.
+The employee account was available in the OpenLDAP people organizational unit.
 
-01-SimplifyIAM-Lab/Screenshot 2026-08-23 175746.png
+[![Employee Provisioning](Screenshot%202026-08-23%20175746.png)](Screenshot%202026-08-23%20175746.png)
 
 
 
