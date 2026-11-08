@@ -46,6 +46,24 @@ The lab covers employee onboarding, account provisioning, employee termination a
 - Understood employee termination workflows.
 - Explored automated account deactivation.
 
+
+## Lab Screenshots
+
+### 1. Employee Termination and Deprovisioning
+
+The employee account was automatically disabled
+and moved to the inactive organizational unit.
+
+![Employee Termination](screenshots/Screenshot%202026-08-23%20175746.png)
+
+### 2. Employee Account Provisioning
+
+The employee account was available in the
+OpenLDAP people organizational unit.
+
+![Employee Account](screenshots/Screenshot%202026-08-23%20180636.png)
+
+
 ## Project Author
 
 Anil Kumar Reddy
