@@ -63,6 +63,4 @@ Decoded the ID token and verified the returned user claims.
 
 Anil Kumar Reddy
 
-## Project Author
 
-Anil Kumar Reddy
