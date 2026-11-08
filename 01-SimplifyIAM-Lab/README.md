@@ -63,7 +63,7 @@ and moved to the inactive organizational unit.
 The employee account was available in the
 OpenLDAP people organizational unit.
 
-![Employee Provisioning](../Screenshot%202026-08-23%20180636.png)
+01-SimplifyIAM-Lab/Screenshot 2026-08-23 175746.png
 
 
 
