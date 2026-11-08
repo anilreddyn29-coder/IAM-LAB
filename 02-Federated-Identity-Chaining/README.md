@@ -41,7 +41,8 @@ Successfully configured LinkedIn as an external Identity Provider using Auth0.
 
 Successfully completed the OAuth 2.0 authorization flow.
 
-![LinkedIn Authentication](./Screenshot%202026-08-16%20162137.png)
+![Authorization Success](./Screenshot%202026-08-16%20162225.png)
+
 
 
 ### 3. JWT Token Validation
