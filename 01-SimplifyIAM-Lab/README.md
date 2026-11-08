@@ -54,14 +54,16 @@ The lab covers employee onboarding, account provisioning, employee termination a
 The employee account was automatically disabled
 and moved to the inactive organizational unit.
 
-![Employee Termination](screenshots/Screenshot%202026-08-23%20175746.png)
+![Employee Termination](../Screenshot%202026-08-23%20175746.png)
+
 
 ### 2. Employee Account Provisioning
 
 The employee account was available in the
 OpenLDAP people organizational unit.
 
-![Employee Account](screenshots/Screenshot%202026-08-23%20180636.png)
+![Employee Provisioning](../Screenshot%202026-08-23%20180636.png)
+
 
 
 ## Project Author
