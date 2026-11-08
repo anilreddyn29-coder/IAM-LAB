@@ -54,7 +54,7 @@ The lab covers employee onboarding, account provisioning, employee termination a
 The employee account was automatically disabled
 and moved to the inactive organizational unit.
 
-<img width="468" height="112" alt="image" src="https://github.com/user-attachments/assets/14e8ccb4-510d-42f8-9c72-2d449c5e59de" />
+01-SimplifyIAM-Lab/Screenshot 2026-08-23 180636.png
 
 
 
