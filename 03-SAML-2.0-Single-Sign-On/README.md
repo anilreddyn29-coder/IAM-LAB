@@ -42,10 +42,6 @@ The purpose of this lab is to understand the SAML 2.0 authentication flow, the c
 
 The Authgear SAML testing tool displays user attributes returned during the authentication process.
 
-screenshots/
-├── 01-saml-configuration.png
-├── 02-saml-login-success.png
-└── 03-saml-user-attributes.png
 
 
 ### 2. SAML Authentication Success
