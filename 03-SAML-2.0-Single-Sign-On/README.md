@@ -1,61 +1,68 @@
-# SAML 2.0 Single Sign-On (SSO) Lab
+# SAML 2.0 – Single Sign-On (SSO)
 
 ## Project Overview
 
-This hands-on lab demonstrates Single Sign-On (SSO) authentication using the SAML 2.0 protocol.
+This project demonstrates Single Sign-On (SSO) using Security Assertion Markup Language (SAML 2.0). It explores how a user authenticates through an Identity Provider (IdP) and accesses a Service Provider (SP) using SAML-based authentication.
 
-The lab focuses on configuring an Identity Provider (IdP) and a Service Provider (SP) to enable secure authentication using SAML assertions.
+## Purpose
+
+The purpose of this lab is to understand the SAML 2.0 authentication flow, the communication between an Identity Provider and a Service Provider, and how user attributes are shared through SAML assertions.
 
 ## Technologies Used
 
 - SAML 2.0
-- Auth0
+- Authgear SAML Testing Tool
 - Identity Provider (IdP)
 - Service Provider (SP)
-- XML
+- XML Assertions
 - Single Sign-On (SSO)
+
+## Key Concepts Covered
+
+- SAML authentication flow
+- Identity Provider (IdP) and Service Provider (SP)
+- SAML authentication requests
+- SAML responses and assertions
+- User attributes and claims
+- NameID and attribute mapping
+- SAML response validation
 
 ## Authentication Flow
 
-1. User accesses the Service Provider application.
-2. Service Provider generates a SAML authentication request.
-3. User is redirected to the Identity Provider.
-4. Identity Provider authenticates the user.
-5. IdP generates a signed SAML response.
-6. Service Provider validates the SAML assertion.
-7. User receives authenticated access to the application.
-
-## Key Learning Outcomes
-
-- Understanding SAML 2.0 architecture
-- Identity Provider and Service Provider configuration
-- SAML authentication requests and responses
-- XML-based SAML assertions
-- Single Sign-On implementation
-- SAML-based federated authentication
+1. The user attempts to access a Service Provider.
+2. The Service Provider initiates SAML authentication.
+3. The user is redirected to the Identity Provider.
+4. The user authenticates with the Identity Provider.
+5. The Identity Provider generates a SAML response.
+6. The Service Provider processes the response and grants access after validation.
 
 ## Lab Screenshots
 
-### 1. Identity Provider Configuration
+### 1. SAML User Attributes
 
-![Identity Provider Configuration](screenshots/01-idp-configuration.png)
+The Authgear SAML testing tool displays user attributes returned during the authentication process.
 
-### 2. Service Provider Configuration
+![SAML User Attributes](screenshots/01-saml-user-attributes.png)
 
-![Service Provider Configuration](screenshots/02-sp-configuration.png)
+### 2. SAML Authentication Success
 
-### 3. SAML Authentication Request
+*Add a screenshot showing successful SAML login here.*
 
-![SAML Authentication Request](screenshots/03-saml-request.png)
+<!-- Upload a genuine SAML authentication success screenshot and add its Markdown image link here. -->
 
-### 4. SAML Response
+### 3. SAML Response Validation
 
-![SAML Response](screenshots/04-saml-response.png)
+*Add a screenshot showing the SAML response or assertion validation here.*
 
-### 5. Successful SSO Authentication
+<!-- Upload a genuine SAML response validation screenshot and add its Markdown image link here. -->
 
-![Successful SSO](screenshots/05-sso-success.png)
+## Learning Outcomes
 
-## Conclusion
+- Understood the fundamentals of SAML 2.0.
+- Learned the roles of Identity Providers and Service Providers.
+- Explored SAML authentication and user attribute sharing.
+- Understood how SAML assertions support Single Sign-On.
 
-Successfully explored SAML 2.0 Single Sign-On, IdP and SP configuration, SAML assertions, and federated authentication.
+## Project Author
+
+Anil Kumar Reddy
