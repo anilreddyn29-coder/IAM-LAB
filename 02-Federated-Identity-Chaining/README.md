@@ -30,24 +30,11 @@ This hands-on lab demonstrates Federated Identity Authentication using Auth0 and
 
 ## Lab Screenshots
 
-### 1. LinkedIn Authentication
-
-Successfully configured LinkedIn as an external Identity Provider using Auth0.
+![LinkedIn Authentication](./Screenshot%202026-08-16%20162137.png)
 
 
 ![Authorization Success](./Screenshot%202026-08-16%20162225.png)
 
-### 2. Authorization Success
-
-Successfully completed the OAuth 2.0 authorization flow.
-
-![Authorization Success](./Screenshot%202026-08-16%20162225.png)
-
-
-
-### 3. JWT Token Validation
-
-Decoded the ID token and verified the returned user claims.
 
 
 ![JWT Token Validation](./Screenshot%202026-08-16%20162403.png)
